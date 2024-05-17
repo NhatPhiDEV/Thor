@@ -1,0 +1,157 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Labs\\Thor\\Thor.UnitTest\\Thor.UnitTest.csproj": {}
+  },
+  "projects": {
+    "D:\\Labs\\Thor\\Thor.BusinessLogicLayer\\Thor.BusinessLogicLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Labs\\Thor\\Thor.BusinessLogicLayer\\Thor.BusinessLogicLayer.csproj",
+        "projectName": "Thor.BusinessLogicLayer",
+        "projectPath": "D:\\Labs\\Thor\\Thor.BusinessLogicLayer\\Thor.BusinessLogicLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Labs\\Thor\\Thor.DataAccessLayer\\Thor.DataAccessLayer.csproj": {
+                "projectPath": "D:\\Labs\\Thor\\Thor.DataAccessLayer\\Thor.DataAccessLayer.csproj"
+              },
+              "D:\\Labs\\Thor\\Thor.Entities\\Thor.Entities.csproj": {
+                "projectPath": "D:\\Labs\\Thor\\Thor.Entities\\Thor.Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Labs\\Thor\\Thor.DataAccessLayer\\Thor.DataAccessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Labs\\Thor\\Thor.DataAccessLayer\\Thor.DataAccessLayer.csproj",
+        "projectName": "Thor.DataAccessLayer",
+        "projectPath": "D:\\Labs\\Thor\\Thor.DataAccessLayer\\Thor.DataAccessLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Labs\\Thor\\Thor.Entities\\Thor.Entities.csproj": {
+                "projectPath": "D:\\Labs\\Thor\\Thor.Entities\\Thor.Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Labs\\Thor\\Thor.Entities\\Thor.Entities.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Labs\\Thor\\Thor.Entities\\Thor.Entities.csproj",
+        "projectName": "Thor.Entities",
+        "projectPath": "D:\\Labs\\Thor\\Thor.Entities\\Thor.Entities.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Labs\\Thor\\Thor.UnitTest\\Thor.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Labs\\Thor\\Thor.UnitTest\\Thor.UnitTest.csproj",
+        "projectName": "Thor.UnitTest",
+        "projectPath": "D:\\Labs\\Thor\\Thor.UnitTest\\Thor.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Labs\\Thor\\Thor.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Labs\\Thor\\Thor.BusinessLogicLayer\\Thor.BusinessLogicLayer.csproj": {
+                "projectPath": "D:\\Labs\\Thor\\Thor.BusinessLogicLayer\\Thor.BusinessLogicLayer.csproj"
+              },
+              "D:\\Labs\\Thor\\Thor.DataAccessLayer\\Thor.DataAccessLayer.csproj": {
+                "projectPath": "D:\\Labs\\Thor\\Thor.DataAccessLayer\\Thor.DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

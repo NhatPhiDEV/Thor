@@ -1,0 +1,11 @@
+D:\Labs\Thor\Thor.DataAccessLayer\bin\Debug\Thor.DataAccessLayer.dll
+D:\Labs\Thor\Thor.DataAccessLayer\bin\Debug\Thor.DataAccessLayer.pdb
+D:\Labs\Thor\Thor.DataAccessLayer\obj\Debug\Thor.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Labs\Thor\Thor.DataAccessLayer\obj\Debug\Thor.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Labs\Thor\Thor.DataAccessLayer\obj\Debug\Thor.DataAccessLayer.dll
+D:\Labs\Thor\Thor.DataAccessLayer\obj\Debug\Thor.DataAccessLayer.pdb
+D:\Labs\Thor\Thor.DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+D:\Labs\Thor\Thor.DataAccessLayer\bin\Debug\System.Data.SqlClient.xml
+D:\Labs\Thor\Thor.DataAccessLayer\obj\Debug\Thor.Dat.CDA10783.Up2Date
+D:\Labs\Thor\Thor.DataAccessLayer\bin\Debug\Thor.Entities.dll
+D:\Labs\Thor\Thor.DataAccessLayer\bin\Debug\Thor.Entities.pdb

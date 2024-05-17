@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs\\Thor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10D8A22-5649-4797-AA60-649575DAE6D2}|Thor.PresentationLayer\\Thor.PresentationLayer.csproj|d:\\labs\\thor\\thor.presentationlayer\\forms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10D8A22-5649-4797-AA60-649575DAE6D2}|Thor.PresentationLayer\\Thor.PresentationLayer.csproj|solutionrelative:thor.presentationlayer\\forms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10D8A22-5649-4797-AA60-649575DAE6D2}|Thor.PresentationLayer\\Thor.PresentationLayer.csproj|d:\\labs\\thor\\thor.presentationlayer\\forms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B10D8A22-5649-4797-AA60-649575DAE6D2}|Thor.PresentationLayer\\Thor.PresentationLayer.csproj|solutionrelative:thor.presentationlayer\\forms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10D8A22-5649-4797-AA60-649575DAE6D2}|Thor.PresentationLayer\\Thor.PresentationLayer.csproj|D:\\Labs\\Thor\\thor.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10D8A22-5649-4797-AA60-649575DAE6D2}|Thor.PresentationLayer\\Thor.PresentationLayer.csproj|solutionrelative:thor.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFD602F-4AE2-4A85-BBE3-BCCADD31BEC4}|Thor.Entities\\Thor.Entities.csproj|d:\\labs\\thor\\thor.entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFD602F-4AE2-4A85-BBE3-BCCADD31BEC4}|Thor.Entities\\Thor.Entities.csproj|solutionrelative:thor.entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BED32F-7226-44A5-8C60-AC634BEF1D32}|Thor.DataAccessLayer\\Thor.DataAccessLayer.csproj|D:\\Labs\\Thor\\thor.dataaccesslayer\\repositories\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BED32F-7226-44A5-8C60-AC634BEF1D32}|Thor.DataAccessLayer\\Thor.DataAccessLayer.csproj|solutionrelative:thor.dataaccesslayer\\repositories\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BED32F-7226-44A5-8C60-AC634BEF1D32}|Thor.DataAccessLayer\\Thor.DataAccessLayer.csproj|D:\\Labs\\Thor\\thor.dataaccesslayer\\repositories\\courses\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BED32F-7226-44A5-8C60-AC634BEF1D32}|Thor.DataAccessLayer\\Thor.DataAccessLayer.csproj|solutionrelative:thor.dataaccesslayer\\repositories\\courses\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DF662B-229F-4030-8DA8-69A0FB8FD369}|Thor.BusinessLogicLayer\\Thor.BusinessLogicLayer.csproj|D:\\Labs\\Thor\\thor.businesslogiclayer\\services\\courses\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DF662B-229F-4030-8DA8-69A0FB8FD369}|Thor.BusinessLogicLayer\\Thor.BusinessLogicLayer.csproj|solutionrelative:thor.businesslogiclayer\\services\\courses\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B98D3B3-1DCC-45D8-B167-BDBA0FE31127}|Thor.UnitTest\\Thor.UnitTest.csproj|D:\\Labs\\Thor\\thor.unittest\\courses\\courserepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B98D3B3-1DCC-45D8-B167-BDBA0FE31127}|Thor.UnitTest\\Thor.UnitTest.csproj|solutionrelative:thor.unittest\\courses\\courserepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Labs\\Thor\\Thor.Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Thor.Entities\\Course.cs",
+              "ToolTip": "D:\\Labs\\Thor\\Thor.Entities\\Course.cs",
+              "RelativeToolTip": "Thor.Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:36:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseForm.cs",
+              "DocumentMoniker": "D:\\Labs\\Thor\\Thor.PresentationLayer\\Forms\\CourseForm.cs",
+              "RelativeDocumentMoniker": "Thor.PresentationLayer\\Forms\\CourseForm.cs",
+              "ToolTip": "D:\\Labs\\Thor\\Thor.PresentationLayer\\Forms\\CourseForm.cs",
+              "RelativeToolTip": "Thor.PresentationLayer\\Forms\\CourseForm.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADwvxYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:12:40.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Labs\\Thor\\Thor.PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "Thor.PresentationLayer\\Program.cs",
+              "ToolTip": "D:\\Labs\\Thor\\Thor.PresentationLayer\\Program.cs",
+              "RelativeToolTip": "Thor.PresentationLayer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:09:28.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseForm.cs [Design]",
+              "DocumentMoniker": "D:\\Labs\\Thor\\Thor.PresentationLayer\\Forms\\CourseForm.cs",
+              "RelativeDocumentMoniker": "Thor.PresentationLayer\\Forms\\CourseForm.cs",
+              "ToolTip": "D:\\Labs\\Thor\\Thor.PresentationLayer\\Forms\\CourseForm.cs [Design]",
+              "RelativeToolTip": "Thor.PresentationLayer\\Forms\\CourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:09:24.324Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\Labs\\Thor\\Thor.DataAccessLayer\\Repositories\\Courses\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Thor.DataAccessLayer\\Repositories\\Courses\\CourseRepository.cs",
+              "ToolTip": "D:\\Labs\\Thor\\Thor.DataAccessLayer\\Repositories\\Courses\\CourseRepository.cs",
+              "RelativeToolTip": "Thor.DataAccessLayer\\Repositories\\Courses\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:58:58.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Labs\\Thor\\Thor.DataAccessLayer\\Repositories\\Core\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Thor.DataAccessLayer\\Repositories\\Core\\BaseRepository.cs",
+              "ToolTip": "D:\\Labs\\Thor\\Thor.DataAccessLayer\\Repositories\\Core\\BaseRepository.cs",
+              "RelativeToolTip": "Thor.DataAccessLayer\\Repositories\\Core\\BaseRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAvwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:44:31.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\Labs\\Thor\\Thor.BusinessLogicLayer\\Services\\Courses\\CourseService.cs",
+              "RelativeDocumentMoniker": "Thor.BusinessLogicLayer\\Services\\Courses\\CourseService.cs",
+              "ToolTip": "D:\\Labs\\Thor\\Thor.BusinessLogicLayer\\Services\\Courses\\CourseService.cs",
+              "RelativeToolTip": "Thor.BusinessLogicLayer\\Services\\Courses\\CourseService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:29:43.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseRepositoryTests.cs",
+              "DocumentMoniker": "D:\\Labs\\Thor\\Thor.UnitTest\\Courses\\CourseRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Thor.UnitTest\\Courses\\CourseRepositoryTests.cs",
+              "ToolTip": "D:\\Labs\\Thor\\Thor.UnitTest\\Courses\\CourseRepositoryTests.cs",
+              "RelativeToolTip": "Thor.UnitTest\\Courses\\CourseRepositoryTests.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:16:31.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

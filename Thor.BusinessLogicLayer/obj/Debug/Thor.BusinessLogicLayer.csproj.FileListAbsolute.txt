@@ -1,0 +1,11 @@
+D:\Labs\Thor\Thor.BusinessLogicLayer\bin\Debug\Thor.BusinessLogicLayer.dll
+D:\Labs\Thor\Thor.BusinessLogicLayer\bin\Debug\Thor.BusinessLogicLayer.pdb
+D:\Labs\Thor\Thor.BusinessLogicLayer\obj\Debug\Thor.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Labs\Thor\Thor.BusinessLogicLayer\obj\Debug\Thor.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Labs\Thor\Thor.BusinessLogicLayer\obj\Debug\Thor.BusinessLogicLayer.dll
+D:\Labs\Thor\Thor.BusinessLogicLayer\obj\Debug\Thor.BusinessLogicLayer.pdb
+D:\Labs\Thor\Thor.BusinessLogicLayer\bin\Debug\Thor.DataAccessLayer.dll
+D:\Labs\Thor\Thor.BusinessLogicLayer\bin\Debug\Thor.Entities.dll
+D:\Labs\Thor\Thor.BusinessLogicLayer\bin\Debug\Thor.DataAccessLayer.pdb
+D:\Labs\Thor\Thor.BusinessLogicLayer\bin\Debug\Thor.Entities.pdb
+D:\Labs\Thor\Thor.BusinessLogicLayer\obj\Debug\Thor.Bus.2842F96A.Up2Date

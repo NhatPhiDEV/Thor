@@ -1,0 +1,8 @@
+D:\Labs\Thor\Thor.Entities\bin\Debug\Thor.Entities.dll
+D:\Labs\Thor\Thor.Entities\bin\Debug\Thor.Entities.pdb
+D:\Labs\Thor\Thor.Entities\obj\Debug\Thor.Entities.csproj.AssemblyReference.cache
+D:\Labs\Thor\Thor.Entities\obj\Debug\Thor.Entities.csproj.CoreCompileInputs.cache
+D:\Labs\Thor\Thor.Entities\obj\Debug\Thor.Entities.dll
+D:\Labs\Thor\Thor.Entities\obj\Debug\Thor.Entities.pdb
+D:\Labs\Thor\Thor.Entities\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Labs\Thor\Thor.Entities\obj\Debug\Thor.Ent.B456006F.Up2Date
